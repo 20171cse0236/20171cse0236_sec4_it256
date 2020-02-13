@@ -1,0 +1,9 @@
+body{ background-color:red}
+p{
+color:red;
+/* this is a single-line comment */
+text-align:center;
+}
+h1{color:blue;
+font-size:30pt;}
+/* this is a multi-line comment */
